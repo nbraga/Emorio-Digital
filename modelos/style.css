@@ -1,0 +1,19 @@
+
+  .container{
+    padding: 20px;
+  }
+
+  p{
+    text-align: justify;
+  }
+
+  .danger{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .apoio{
+    font-size: 2rem;
+  }
